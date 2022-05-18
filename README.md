@@ -1,6 +1,6 @@
 #sobre mim
 - 👋 oi, meu nome é @er1ckao
-- :+1:meu email de contato é eduardo.garcia.erick@escola.pr.gov.br
+- :+1:meu email de contato é [email](eduardo.garcia.erick@escola.pr.gov.br)
 - 👀 eu estou interresado em aprender a programar novas linguagens
 - 🌱 eu estou aprendendo a programar recetemente a linguagem de javascript e scratch
 
